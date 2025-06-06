@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "338644235525",
+    "project_id": "prueba-maps-23af7",
+    "storage_bucket": "prueba-maps-23af7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338644235525:android:7452a64b7761e2138b736c",
+        "android_client_info": {
+          "package_name": "com.example.prueba_maps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHPyOn_SP--N6frijrwQXm3AU5iW23JHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
